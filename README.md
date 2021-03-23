@@ -13,4 +13,6 @@ This [pi blaster thingy seems cool](https://github.com/sarfata/pi-blaster)
 
 Also, for connecting a [WS2812, here's a walkthrough](https://dordnung.de/raspberrypi-ledstrip/ws2812)
 
+Here's some research on [mean well power supplies](https://learn.sparkfun.com/tutorials/mean-well-led-switching-power-supply-hookup-guide/all#:~:text=Connect%20your%20Mean%20Well%20power,the%20Mean%20Well%20output%20voltage.)
+
 Here's an [Adafruit example for the level shifter](https://learn.adafruit.com/neopixels-on-raspberry-pi/raspberry-pi-wiring)
